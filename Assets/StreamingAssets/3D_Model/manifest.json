@@ -1,0 +1,30 @@
+{
+    "products": [
+        {
+            "id": "SOFA",
+            "model": "3D_Model/SOFA/3d_model/pbr_full_multi.glb",
+            "images": [
+                "3D_Model/SOFA/PICS/1.png",
+                "3D_Model/SOFA/PICS/2.png"
+            ],
+            "productName": "SOFA",
+            "price": 0.0,
+            "url": "",
+            "description": "Local SVBRDF sofa model.",
+            "sizeOptions": "90深 x 90寬 x 80高 公分"
+        },
+        {
+            "id": "vase",
+            "model": "3D_Model/vase/3d_model/pbr_full_multi.glb",
+            "images": [
+                "3D_Model/vase/PICS/1.png",
+                "3D_Model/vase/PICS/2.png"
+            ],
+            "productName": "Vase",
+            "price": 0.0,
+            "url": "",
+            "description": "Local SVBRDF vase model.",
+            "sizeOptions": "19深 x 20寬 x 36高 公分"
+        }
+    ]
+}
